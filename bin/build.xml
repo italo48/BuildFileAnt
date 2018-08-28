@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ====================================================================== 
+     27 de ago de 2018 18:57:34                                                        
+
+     Hello World com Apache Ant    
+     Pequeno programa para brincar com o Apache Ant
+                   
+     Ítalo de Oliveira Costa                       
+     ====================================================================== -->
+<project name="Hello World com Apache Ant" default="default">
+	<presetdef name="javac">
+	    <javac includeantruntime="false" />
+	</presetdef>
+    <description>
+            Pequeno programa para brincar com o Apache Ant
+    </description>
+	
+	<property name="build" value="build"></property>
+	<property name="caminho_jar" value="${build}/jar"></property>
+	<property name="caminho_b" value="${build}/classes"></property>	
+	
+    <!-- ================================= 
+          target: default              
+         ================================= -->
+    <target name="default" depends="depends" description="Pequeno programa para brincar com o Apache Ant">
+        
+    </target>
+	
+	<target name="clean">
+		<delete dir="build"/>
+		<echo>Limpando a bagunça...</echo>
+	</target>
+	
+	<target name="compile" depends="clean" >
+		<mkdir dir="${caminho_b}"/>
+		<javac srcdir="main" destdir="${caminho_b}"/>
+	 	<echo>Compilando códigos feios...</echo>
+	</target>
+
+	<target name="package" depends="compile">
+		<mkdir dir="${caminho_jar}"/>
+		<jar destfile="${caminho_jar}/HelloWorld.jar" basedir="${caminho_b}">
+			<manifest>
+				<attribute name="Main-Class" value="main.App"/>
+			</manifest>
+		</jar>
+		<echo>Criando o Jar...</echo>
+	</target>
+	
+	<target name="run-test" depends="package">
+		<java jar="${caminho_jar}/HelloWorld.jar" fork="true"/>
+		<echo>Rodando...</echo>
+	</target>
+
+	<target name="sign" depends="run-test">
+		<mkdir dir="signed"/>
+		<signjar destDir="signed" alias="gerar_chave" keystore="molho_de_chaves.jks" storepass="italowow">
+			<path>
+				<fileset dir="${caminho_jar}" includes="*.jar" />
+			</path>
+			<flattenmapper />
+		</signjar>
+		<echo>Assinando...</echo>
+		<echo>Te Vira Negão</echo>
+	</target>
+	
+    <!-- - - - - - - - - - - - - - - - - - 
+          target: depends                      
+         - - - - - - - - - - - - - - - - - -->
+    <target name="depends">
+    </target>
+
+</project>
