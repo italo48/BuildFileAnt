@@ -98,7 +98,6 @@ A Hello directly from INDIA! 🇮🇳
 =======
 
 # Namaste from the INDIA!
-=======
 
 # Greetings from the INDIA!
-=======
+
