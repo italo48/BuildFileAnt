@@ -125,3 +125,12 @@ Hello from Mauritius!
 
 Hello from brasil!
 =======
+
+Hello from Brazil!
+=======
+
+Hello from Nigeria!
+=======
+
+Hello from USA!
+=======
