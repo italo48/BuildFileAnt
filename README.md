@@ -77,3 +77,6 @@ Hello from India
 
 Xin Chao tu USA!!
 =======
+
+Halo kedua dan salam dari Indonesia!!
+=======
