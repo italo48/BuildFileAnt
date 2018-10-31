@@ -7,7 +7,7 @@ Projeto de builder com Apache Ant, seguindo o ciclo de build e adicionando uma a
 Hello from the USA!
 =======
 
-a hello directly from USA ðŸ‡ºðŸ‡¸
+a hello directly from USA
 =======
 
 hello from Australia
