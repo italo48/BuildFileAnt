@@ -33,6 +33,7 @@ Olá mundo direto do Brasil!
 
 Hello from Bosnia & Herzegovina!
 =======
+
 Olá diretamente do Brasil! :)
 =======
 
@@ -79,4 +80,22 @@ Xin Chao tu USA!!
 =======
 
 Namasthe (Hello in Hindi) from India! :D
+=======
+
+Halo kedua dan salam dari Indonesia!!
+=======
+
+Hello from India!
+========
+
+Hii Everyone from India
+======== 
+
+Hello directly from *INDIA* :)
+=======
+
+A Hello directly from INDIA! 🇮🇳
+=======
+
+# Namaste from the INDIA!
 =======
