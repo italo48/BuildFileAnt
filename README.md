@@ -79,6 +79,9 @@ Hello from India
 Xin Chao tu USA!!
 =======
 
+Namasthe (Hello in Hindi) from India! :D
+=======
+
 Halo kedua dan salam dari Indonesia!!
 =======
 
