@@ -18,7 +18,7 @@ Hola mundo desde USA!!
 Hello from the TANZANIA!
 =======
 
-a hello directly from TANZANIA
+a hello directly from TANZANIA 🇹🇿
 
-habari kutoka TANZANIA
+habari kutoka TANZANIA 🇹🇿 
 =======
