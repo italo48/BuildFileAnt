@@ -19,6 +19,15 @@ A Hello Directly from INDIA!!
 Hola mundo desde USA!!
 =======
 
+Hello from the TANZANIA!
+=======
+
+a hello directly from TANZANIA 🇹🇿
+=======
+
+habari kutoka TANZANIA 🇹🇿 
+=======
+
 Hello from India
 =======
 
@@ -27,4 +36,3 @@ Hello from India
 
 Xin Chao tu USA!!
 =======
-
