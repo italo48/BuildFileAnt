@@ -7,12 +7,12 @@ Projeto de builder com Apache Ant, seguindo o ciclo de build e adicionando uma a
 Hello from the USA!
 =======
 
-a hello directly from USA 🇺🇸
+a hello directly from USA ðŸ‡ºðŸ‡¸
 =======
 
 A Hello Directly from USA!!!!!!
 
 Hola mundo desde USA!!
 
-Ol� mundo direto do Brasil!
-
+Xin Chao tu USA!!
+=======
