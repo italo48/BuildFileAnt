@@ -28,6 +28,11 @@ Namaste from the India!
 a namaste directly from India 
 =======
 
+Olá mundo direto do Brasil!
+=======
+
+Hello from Bosnia & Herzegovina!
+=======
 Olá diretamente do Brasil! :)
 =======
 
