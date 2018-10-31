@@ -22,6 +22,12 @@ A Hello Directly from INDIA!!
 Hola mundo desde USA!!
 =======
 
+Namaste from the India!
+=======
+
+a namaste directly from India 
+=======
+
 Olá diretamente do Brasil! :)
 =======
 
