@@ -79,7 +79,10 @@ Hello from India
 Xin Chao tu USA!!
 =======
 
- Hello from India!
+Halo kedua dan salam dari Indonesia!!
+=======
+
+Hello from India!
 ========
 
 Hii Everyone from India
