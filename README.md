@@ -30,7 +30,7 @@ Hola mundo desde USA!!
 Namaste from the India!
 =======
 
-a namaste directly from India 
+a namaste directly from India
 =======
 
 Namaste From Indai
@@ -75,7 +75,7 @@ Hello from the TANZANIA!
 a hello directly from TANZANIA 🇹🇿
 =======
 
-habari kutoka TANZANIA 🇹🇿 
+habari kutoka TANZANIA 🇹🇿
 =======
 
 Hello from India
@@ -97,7 +97,7 @@ Hello from India!
 ========
 
 Hii Everyone from India
-======== 
+========
 
 Hello directly from *INDIA* :)
 =======
@@ -139,4 +139,7 @@ Hello from USA!
 =======
 
 a hello from USA!
+=======
+
+Hello from the USA!
 =======
